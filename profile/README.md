@@ -36,13 +36,18 @@ React 공식 문서를 완독하는 것이 우리의 목표입니다. <br/>
 <br/><br/><br/>
 
 ### 주차별 계획 및 발표자
-| 주차  | 기간       | 범위                       | 발표자  |
-| ----- | ---------- | -------------------------- | ------- |
-| 1주차 | 2024-05-25 | `useState`, `useReducer`   | TBD     |
-| 2주차 | 2024-06-01 | `useContext`, `useRef`     | TBD     |
-| 3주차 | 2024-06-08 | `useEffect`, `useLayoutEffect` | TBD |
-| 4주차 | 2024-06-15 | `useMemo`, `useCallback`   | TBD     |
-| 5주차 | 2024-06-22 | `useTransition`, `useDeferredValue` | TBD |
+| 주차  | 기간        | 범위                  | 발표자  |
+| ----- | ----------- | --------------------- | ------- |
+| 01주차 | 2024-05-31 | `useState`            | TBD     |
+| 02주차 | 2024-06-07 | `useReducer`          | TBD     |
+| 03주차 | 2024-06-14 | `useContext`          | TBD     |
+| 04주차 | 2024-06-21 | `useRef`              | TBD     |
+| 05주차 | 2024-06-28 | `useEffect`           | TBD     |
+| 06주차 | 2024-07-05 | `useLayoutEffect`     | TBD     |
+| 07주차 | 2024-07-12 | `useMemo`             | TBD     |
+| 08주차 | 2024-07-19 | `useCallback`         | TBD     |
+| 09주차 | 2024-07-26 | `useTransition`       | TBD     |
+| 10주차 | 2024-08-02 | `useDeferredValue`    | TBD     |
 
 <br/><br/><br/>
 
