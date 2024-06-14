@@ -40,8 +40,8 @@ React 공식 문서를 완독하는 것이 우리의 목표입니다. <br/>
 | ----- | ----------- | ----------------------------------- | ------- |
 | 01주차 | 2024-05-31 | `useState`                          | TBD     |
 | 02주차 | 2024-06-07 | `useEffect`                         | TBD     |
-| 03주차 | 2024-06-14 | `useReducer`, `useContext`          | TBD     |
-| 04주차 | 2024-06-21 | `useRef`, `useLayoutEffect`         | TBD     |
+| 03주차 | 2024-06-14 | `useReducer`, `useLayoutEffect`     | TBD     |
+| 04주차 | 2024-06-21 | `useContext`, `useRef`              | TBD     |
 | 05주차 | 2024-06-28 | `useMemo`, `useCallback`            | TBD     |
 | 06주차 | 2024-07-05 | `useTransition`, `useDeferredValue` | TBD     |
 
